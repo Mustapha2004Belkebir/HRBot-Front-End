@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import "./OBheader.css";
 import logo from "../assets/images/Logo.png";
@@ -13,15 +12,15 @@ function OBheader() {
             <div className="slogon">HRBot</div>
           </div>
           <div className="navbar-links">
-            <Link to="/" className="navbar-link">
+            <a href="#features" className="navbar-link">
               Features
-            </Link>
-            <Link to="/" className="navbar-link">
+            </a>
+            <a href="#about-Us" className="navbar-link">
               About Us
-            </Link>
-            <Link to="/" className="navbar-link">
+            </a>
+            <a href="#contact-us" className="navbar-link">
               Contact Us
-            </Link>
+            </a>
           </div>
         </div>
 

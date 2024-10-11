@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function OBabout() {
   return (
-    <div className="about-us">
+    <div className="about-us" id="about-Us">
       <div className="OB-head">
         <div className="OB-title">About Us</div>
         <div className="title-line"></div>
