@@ -1,0 +1,105 @@
+.JSRCform {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding-top: 70px;
+    justify-content: left;
+    font-family: Arial;
+    width: 100%;
+}
+
+.JSCRformHead {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 80%;
+}
+
+.JSCRformTitle {
+    font-size: 32px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.JSCRformText {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.JSCRformBody {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.JSCRjobDescription {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50%;
+}
+
+.JSCRjobDescriptionTitle {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.JSCRjobDescriptionInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    height: 200px;
+    resize: none;
+}
+
+.JSCRresume {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.JSCRresumeTitle {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.JSCReditResume {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border: dashed #717171 1px;
+    padding: 20px;
+    border-radius: 5px;
+    gap: 5px;
+}
+
+.JSRCsubmitcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.JSRCsubmit {
+    color: white;
+    width: 50%;
+    height: 51px;
+    background: #468585;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+}

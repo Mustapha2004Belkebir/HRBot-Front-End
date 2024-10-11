@@ -1,0 +1,23 @@
+{
+    "MatchingPercentage": 85,
+    "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+    "Weaknesses": [
+      "Lack of experience in leadership roles",
+      "Limited exposure to modern web frameworks"
+    ],
+    "ImprovementTips": [
+      "Gain experience in team leadership by taking on small management roles.",
+      "Explore and practice using React or Vue.js to build modern web applications."
+    ],
+    "MissingKeywords": [
+      "Agile",
+      "Continuous Integration",
+      "Cloud Computing"
+    ],
+    "Strengths": [
+      "Strong analytical skills",
+      "Excellent communication and collaboration",
+      "Solid understanding of database design"
+    ]
+  }
+  

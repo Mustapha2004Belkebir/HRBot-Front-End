@@ -1,0 +1,118 @@
+.ApplicationStatusContainer {
+  display: flex;
+  font-family: Poppins;
+  background-color: whitesmoke;
+}
+
+.notification {
+  margin: 5% auto;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  /* border-bottom: 2px solid rgb(211, 211, 211); */
+}
+
+.jobTitle {
+  margin-bottom: 35px;
+  border-bottom: 2px solid rgb(228, 228, 228);
+}
+
+.jobTitle .jobTitleH2 {
+  border: none;
+}
+
+.jobTitle p {
+  font-size: 15px;
+  margin: 0px;
+  padding-bottom: 10px;
+}
+
+.notification h2 {
+  /* margin-left: 10%; */
+  font-size: 30px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid rgb(228, 228, 228);
+}
+
+.applications {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  height: 90vh;
+}
+
+.applications::-webkit-scrollbar {
+  width: 8px; /* Adjust the width as needed */
+}
+
+.applications::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background of the scrollbar track */
+}
+
+.applications::-webkit-scrollbar-thumb {
+  background: #888; /* Color of the scrollbar handle */
+  border-radius: 10px; /* Make the scrollbar handle rounded */
+}
+
+.applications::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Handle color on hover */
+}
+
+.applicant {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  border-bottom: 2px solid rgb(226, 226, 226);
+  padding: 1rem;
+}
+
+.applicantText {
+  width: 40%;
+  /* padding: 1rem; */
+}
+
+.applicantName {
+  margin-left: 0%;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 100;
+  font-weight: 600;
+}
+
+.rejectApplicant {
+  margin-left: 3%;
+  font-weight: 600;
+  font-size: 13px;
+  color: #ba0606;
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.btns {
+  display: flex;
+  width: 30%;
+}
+
+.btn {
+  margin-right: 5%;
+  width: 30%;
+  height: 2.2rem;
+  border-radius: 15px;
+  border: none;
+  background-color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+.greenBtn {
+  width: 30%;
+  height: 2.2rem;
+  border-radius: 15px;
+  border: none;
+  background-color: #468585;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}

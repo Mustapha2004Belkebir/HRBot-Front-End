@@ -1,0 +1,34 @@
+.JSRCresult {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Arial;
+}
+
+.JSRCresultLeft, .JSRCresultRight {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+.resultUnit {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.resultTitle {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.resultContent {
+    font-size: 18px;
+    font-weight: 500;
+    color: #333333;
+}

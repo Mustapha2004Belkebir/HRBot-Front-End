@@ -1,0 +1,48 @@
+/* Main content container */
+.mainContent {
+  width: 90%;
+  /* height: 100vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+  margin-bottom: 5%;
+  /* overflow-x: hidden; */
+
+  /* position: absolute; */
+}
+
+/* Grid container inside main content */
+.jobGrid {
+  /* padding: 20px; */
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-content: center;
+  gap: 40px 5px;
+  width: 100%;
+}
+
+/* Responsive design for small screens */
+@media (max-width: 1390px) {
+  .jobGrid {
+    grid-template-columns: repeat(4, 1fr); /* 4 columns on medium screens */
+  }
+}
+
+@media (max-width: 1080px) {
+  .jobGrid {
+    grid-template-columns: repeat(3, 1fr); /* 3 columns on smaller screens */
+  }
+}
+
+@media (max-width: 800px) {
+  .jobGrid {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on mobile */
+  }
+}
+
+@media (max-width: 540px) {
+  .jobGrid {
+    grid-template-columns: 1fr; /* 1 column on very small screens */
+  }
+}

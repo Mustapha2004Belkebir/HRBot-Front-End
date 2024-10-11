@@ -1,0 +1,85 @@
+.about-us {
+    width: 100vw;
+    font-family: Arial;
+    margin-top: 60px;
+  }
+
+.about-body {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.company-logo {
+    width: 381px;
+    height: 404px;
+    border-radius: 24px;
+}
+
+.about-text {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 50px;
+}
+
+.visit-website {
+    padding: 20px 40px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    background-color: #468585;
+    color: white;
+}  
+  
+.about-description {
+    color: #030303;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    word-wrap: break-word;
+}  
+  
+.trust-message {
+    color: #030303;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    word-wrap: break-word;
+}  
+  
+  
+
+@media (min-width: 768px) and (max-width: 950px) {
+
+    .company-logo {
+        transform: scale(50%);
+    }
+
+    .visit-website {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+    .about-description {
+        font-size: 13px;
+    }
+
+    .trust-message {
+        font-size: 13px;
+    }
+
+    .about-text {
+        width: 40vw;
+        margin-left: 5vw;
+    }
+}

@@ -1,0 +1,216 @@
+.HrContainer {
+  width: 100vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  padding: 0;
+  background-color: #fbfdfe;
+  position: relative;
+  overflow-x: hidden;
+  flex-grow: 1;
+  overflow-y: auto;
+  font-family: poppins;
+  color: #808080;
+}
+
+form {
+  width: 100%;
+  max-width: 600px;
+  padding: 2%;
+  /* margin: 40px 0; */
+  font-family: Poppins;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 5%;
+}
+
+p {
+  margin-left: 22%;
+  margin-right: 22%;
+}
+
+a {
+  text-decoration: underline;
+  color: #111111;
+  font-weight: bold;
+}
+
+.logo {
+  margin-left: 30%;
+  margin-right: 30%;
+  display: flex;
+  flex-direction: column;
+}
+.logo p {
+  margin: 0 10%;
+
+  width: fit-content;
+}
+
+.labelInput {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  /* justify-content: center; */
+  width: 70%;
+}
+.labelInput label {
+  font-size: 12px;
+  margin-bottom: 5px;
+  color: #5d5d5d;
+}
+.labelInput input {
+  color: #8a8a8a;
+  border: 1px solid rgb(195, 195, 195);
+  border-radius: 10px;
+  padding: 10px 40px;
+  font-size: 11px;
+  height: 30%;
+  width: 78%;
+}
+.optionsContainer {
+  display: flex;
+}
+
+.firstOption {
+  margin-right: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.firstOption label {
+  margin: 0;
+}
+input[type="radio"] {
+  width: 12px;
+  height: 12px;
+  margin: 0 8px 0 0;
+}
+
+.recaptcha {
+  transform: scale(0.85);
+  transform-origin: 0 0;
+}
+
+.btn button {
+  width: 60%;
+  height: 2.5rem;
+  margin-left: 12%;
+  background-color: #4c9084;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  padding: 10px 40px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+}
+
+.selectContainer select {
+  margin-right: 15px;
+  width: 25%;
+  height: 1.8rem;
+  border-radius: 10px;
+  border: 1px solid rgb(195, 195, 195);
+  text-align: center;
+  font-size: 12px;
+  color: #808080;
+}
+
+small {
+  font-size: 10px;
+  margin-top: 4px;
+}
+
+.content {
+  padding-left: 10%;
+  margin-bottom: 5%;
+}
+.Elipse1 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 30%;
+  position: absolute;
+  top: -15%;
+  left: 39%;
+  filter: blur(100px);
+}
+.Elipse2 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  top: 20%;
+  right: -10%;
+  filter: blur(100px);
+}
+.Elipse3 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  bottom: 20%;
+  right: -10%;
+  filter: blur(100px);
+}
+.Elipse4 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  top: 20%;
+  left: -10%;
+  filter: blur(100px);
+}
+.Elipse5 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  bottom: 10%;
+  left: -10%;
+  filter: blur(100px);
+}
+
+.passwordInputContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.passwordInputContainer input {
+  width: 100%;
+  padding-right: 10px 40px; /* Add some padding to the right to prevent text overlap with the icon */
+}
+
+.togglePasswordButton {
+  position: absolute;
+  right: 10px; /* Position the button inside the input field */
+  background: transparent;
+  box-shadow: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  /* color: #808080; */
+  width: fit-content;
+}
+.togglePasswordButton:hover {
+  background: transparent;
+  box-shadow: none;
+}
+.togglePasswordButton:focus {
+  outline: none;
+}
+
+.togglePasswordButton:focus {
+  outline: none;
+}

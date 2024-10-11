@@ -1,0 +1,830 @@
+[
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Pending",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Pending",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Pending",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Pending",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Pending",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Pending",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Rejected",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Rejected",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Rejected",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Rejected",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Data Scientist",
+    "jobDescription": "As a Data Scientist at AI Insight Labs, you will work with cross-functional teams to extract insights from large datasets, develop predictive models, and provide data-driven solutions to complex business challenges.",
+    "requiredQualifications": [
+      "Bachelor's or Master's degree in Data Science, Statistics, or a related field.",
+      "2+ years of experience in data analysis and machine learning.",
+      "Experience with Python, R, and SQL for data manipulation and analysis."
+    ],
+    "location": "Remote",
+    "employmentType": "Part-time",
+    "workHours": "Flexible hours",
+    "salaryAndBenefits": [
+      "Salary ranging from 70,000 DZD to 100,000 DZD monthly.",
+      "Opportunities for professional growth and certifications."
+    ],
+    "companyName": "AI Insight Labs",
+    "companyOverview": "AI Insight Labs is a forward-thinking company that uses AI and machine learning to solve real-world business problems.",
+    "contactInformation": "For more information, contact careers@aiinsightlabs.dz",
+    "jobCategory": "DS",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Rejected",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Frontend Developer",
+    "jobDescription": "Join WebCore Technologies as a Frontend Developer where you will design and implement responsive, high-quality web applications for various clients using modern JavaScript frameworks.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or equivalent experience.",
+      "Strong knowledge of JavaScript, HTML, CSS, and frontend frameworks like React or Vue.",
+      "2+ years of experience in web development."
+    ],
+    "location": "On-site - Sidi Abdellah, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 8 AM to 4 PM",
+    "salaryAndBenefits": [
+      "Salary ranging from 80,000 DZD to 110,000 DZD monthly.",
+      "Paid vacation and healthcare benefits."
+    ],
+    "companyName": "WebCore Technologies",
+    "companyOverview": "WebCore Technologies specializes in building modern web solutions for clients across various industries.",
+    "contactInformation": "Reach out to careers@webcoretech.dz for more details.",
+    "jobCategory": "WD",
+    "applicants": [
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Rejected",
+        "MatchingPercentage": 85,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "Overall, the candidate shows great potential. Some minor adjustments can improve their chances.",
+        "Weaknesses": [
+          "Lack of experience in leadership roles",
+          "Limited exposure to modern web frameworks"
+        ],
+        "ImprovementTips": [
+          "Gain experience in team leadership by taking on small management roles.",
+          "Explore and practice using React or Vue.js to build modern web applications."
+        ],
+        "MissingKeywords": [
+          "Agile",
+          "Continuous Integration",
+          "Cloud Computing"
+        ],
+        "Strengths": [
+          "Strong analytical skills",
+          "Excellent communication and collaboration",
+          "Solid understanding of database design"
+        ]
+      },
+      {
+        "applicantName": "akram",
+        "applicationStatus": "Accepted",
+        "MatchingPercentage": 92,
+        "resume": "src\\assets\\images\\SidePhoto1",
+        "FinalThoughts": "The candidate demonstrates exceptional skill and readiness for the role. A few more projects in the industry would make them stand out even further.",
+        "Weaknesses": [
+          "Limited experience in large-scale enterprise systems",
+          "Needs more familiarity with DevOps tools"
+        ],
+        "ImprovementTips": [
+          "Work on larger projects that involve enterprise-level systems and architectures.",
+          "Start using tools like Docker and Jenkins to understand the DevOps workflow."
+        ],
+        "MissingKeywords": ["Kubernetes", "Microservices", "Test Automation"],
+        "Strengths": [
+          "Proficient in full-stack web development",
+          "Excellent problem-solving capabilities",
+          "Strong understanding of security best practices"
+        ]
+      }
+    ]
+  }
+]

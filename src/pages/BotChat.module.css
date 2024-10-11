@@ -1,0 +1,176 @@
+.componentContainer {
+  display: flex;
+  font-family: Poppins, sans-serif;
+}
+
+.JobInformation {
+  font-weight: 100;
+
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px;
+  height: 120%;
+  overflow: auto;
+}
+
+.JobInformation h3 {
+  text-align: center;
+  font-size: 29px;
+}
+
+.JobName {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.JobName h4 {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.JobName p {
+  margin: 5px auto auto 0;
+  text-align: left;
+  font-size: 12px;
+}
+
+.titleDescription {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.titleDescription p {
+  margin: 5px auto auto 0;
+  text-align: left;
+  font-size: 12px;
+  color: #333333;
+}
+
+.titleDescription ul {
+  margin: 5px auto auto 0;
+  text-align: left;
+  font-size: 12px;
+  color: #333333;
+}
+
+.chatbotContainer {
+  width: 60%;
+  /* border: 1px solid #ccc; */
+  border-radius: 10px;
+  /* padding: 20px; */
+  display: flex;
+  flex-direction: column;
+}
+.chatHead {
+  width: 100%;
+  height: 10%;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+}
+.chatHead img {
+  width: 70px;
+  height: 70px;
+}
+.chatHead h3 {
+  margin: 5px;
+}
+.chatHead p {
+  margin: 5px;
+}
+.chatWindow {
+  flex-grow: 1;
+  /* margin-bottom: 10px; */
+  overflow-y: scroll;
+  height: 90vh;
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.welcomeText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4%;
+}
+
+.welcomeText h3 {
+  font-size: 30px;
+  margin: 10px;
+}
+
+.welcomeText img {
+  width: 80px;
+  height: 80px;
+}
+
+.chatWindow p {
+  font-size: 13px;
+  margin: 0;
+  width: 55%;
+  text-align: center;
+  margin-left: 23%;
+  margin-bottom: 7%;
+}
+
+.message {
+  padding: 10px;
+  /* border-radius: 8px; */
+  margin: 5px 0;
+  color: #fff;
+  font-size: small;
+  width: 35%;
+  font-weight: 100;
+}
+
+.message.user {
+  background-color: #3c6868;
+  align-self: flex-end;
+  border-radius: 8px 0 8px 8px;
+}
+
+.message.bot {
+  background-color: #333b3b;
+  align-self: flex-start;
+  border-radius: 0 8px 8px 8px;
+}
+
+.inputBtnContainer {
+  height: 5%;
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+}
+.inputBtnContainer img {
+  margin-right: 5px;
+}
+.input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  flex-grow: 1;
+  width: 85%;
+  background-color: #eeeeee;
+}
+
+.button {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #468585;
+  color: white;
+  border: none;
+  margin-left: 6px;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.send {
+  width: 20px;
+  height: 20px;
+  margin: 0 3px;
+}

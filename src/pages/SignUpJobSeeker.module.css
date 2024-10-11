@@ -1,0 +1,286 @@
+.JobSeekerContainer {
+  width: 100vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  padding: 0;
+
+  background-color: #fbfdfe;
+  position: relative;
+  overflow-x: hidden;
+  flex-grow: 1;
+  overflow-y: auto;
+  font-family: poppins;
+  /* color: #808080; */
+}
+
+.form {
+  width: 100%;
+  /* max-width: 600px; */
+  padding: 0%;
+  font-family: Poppins;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.p {
+  width: fit-content;
+  /* margin-left: 50%; */
+  /* margin-right: 23%; */
+  font-size: 13px;
+  margin-left: 21%;
+  /* margin-bottom: 5px; */
+  /* text-align: center; */
+}
+
+.a {
+  text-decoration: underline;
+  color: #111111;
+  font-weight: bold;
+}
+
+.logo {
+  /* margin-top: 5%; */
+  margin-left: 30%;
+  margin-right: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo p {
+  margin: 0 10%;
+  width: fit-content;
+}
+
+.labelInput {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  /* justify-content: center; */
+  width: 70%;
+}
+
+.labelInput label {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.labelInput input {
+  border: 1px solid rgb(195, 195, 195);
+  border-radius: 10px;
+  padding: 10px 40px; /* Adjust top/bottom padding as needed */
+  font-size: 12px;
+  height: 30%;
+  width: 78%;
+}
+
+.optionsContainer {
+  display: flex;
+}
+
+.firstOption {
+  margin-right: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.firstOption label {
+  margin: 0;
+}
+
+input[type="radio"] {
+  width: 12px;
+  height: 12px;
+  margin: 0 8px 0 0;
+}
+
+.checkboxLabel {
+  margin-bottom: 15px;
+  font-size: 12px;
+  display: flex;
+  width: 79%;
+}
+
+.checkboxLabel input {
+  margin-right: 2%;
+  accent-color: #111111;
+  width: fit-content;
+}
+
+.recaptcha {
+  transform: scale(1);
+  transform-origin: 0 0;
+}
+
+.btn button {
+  width: 60%;
+  height: 2.5rem;
+  margin-left: 12%;
+  background-color: #4c9084;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  padding: 10px 40px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+}
+
+.selectContainer select {
+  margin-right: 15px;
+  width: 20%;
+  height: 1.8rem;
+  border-radius: 10px;
+  border: 1px solid rgb(195, 195, 195);
+  text-align: center;
+  font-size: 11px;
+  font-weight: 300;
+}
+
+small {
+  font-size: 10px;
+  margin-top: 4px;
+}
+
+.resume {
+  display: flex;
+  align-items: center;
+  border: 2px dashed #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #fafafa; /* Similar background color */
+  width: 64%;
+  height: 1.9rem;
+  margin-bottom: 15px;
+}
+
+.fileIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 40%;
+  margin-left: 5%;
+  padding: 5px;
+  border: 2px solid #ccc; /* Adds border similar to the icon box */
+  border-radius: 8px;
+}
+
+.fileLabel {
+  display: inline-block;
+  cursor: pointer;
+  padding: 6px 10px;
+  border: 1px solid #86c5bd;
+  border-radius: 5px;
+  background-color: white;
+  color: #86c5bd;
+  text-align: center;
+  font-size: 14px;
+}
+
+.fileInput {
+  display: none; /* Hide the default file input */
+}
+
+.content {
+  padding-left: 10%;
+  /* margin: 5% 0; */
+}
+
+.Elipse1 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 30%;
+  position: absolute;
+  top: -15%;
+  left: 39%;
+  filter: blur(120px);
+}
+
+.Elipse2 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  top: 20%;
+  right: -10%;
+  filter: blur(120px);
+}
+
+.Elipse3 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  bottom: 20%;
+  right: -10%;
+  filter: blur(120px);
+}
+
+.Elipse4 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  top: 20%;
+  left: -10%;
+  filter: blur(120px);
+}
+
+.Elipse5 {
+  background-color: rgba(70, 133, 133, 0.6);
+  border-radius: 50%;
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  bottom: 10%;
+  left: -10%;
+  filter: blur(120px);
+}
+
+.passwordInputContainer {
+  position: relative;
+  display: flex; /* Align input and icon */
+}
+
+.passwordInputContainer input {
+  flex: 1; /* Expand to fill space */
+  padding: 10px 40px; /* Adjust top/bottom padding as needed */
+  padding-right: 40px; /* Ensure text doesn't overlap with icon */
+  border: 1px solid rgb(195, 195, 195);
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+.togglePasswordButton {
+  position: absolute;
+  right: 10px; /* Adjust based on design preference */
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0; /* Remove padding for better alignment */
+  width: 20px;
+  box-shadow: none;
+}
+
+.togglePasswordButton:hover {
+  background: transparent;
+  box-shadow: none;
+}
+.togglePasswordButton:focus {
+  outline: none;
+}
+
+.togglePasswordButton:focus {
+  outline: none;
+}

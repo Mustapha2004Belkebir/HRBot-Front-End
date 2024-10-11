@@ -1,0 +1,10 @@
+{
+    "name": "Jane Doe",
+    "imagePath": "src\\assets\\images\\UserProfile.png",
+    "email": "jane.doe@example.com",
+    "gender": "Female",
+    "field": "Software Engineering",
+    "dateOfBirth": "1990-05-15",
+    "cvName": "Jane_Doe_CV.pdf",
+    "password": "securePassword123!"
+}

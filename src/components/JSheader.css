@@ -1,0 +1,120 @@
+.JSheader {
+  width: 9vw;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  font-family: Arial;
+  background-color: rgb(66, 66, 66, 0.15);
+}
+
+.JSheader-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.JSheader-logo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.JSlogo {
+  width: 70px;
+  height: 70px;
+}
+
+.JSheader-user-profile {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  background-color: #468585;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.JSuser-profile {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.JSheader-user-name {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.JSheader-user-posts,
+.JSheader-resume-consult,
+.JSheader-status,
+.JSheader-setting {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 20px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.JSheader-text {
+  color: #468585;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 7px;
+  text-align: center;
+}
+
+.JSheader-log-out {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.JSheader-log-out-button {
+  border: 2px #468585 solid;
+  border-radius: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #468585;
+  width: 6vw;
+  height: 35px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.active .JSheader-text {
+  color: black;
+}
+
+.active {
+  border-left: 4px solid #468585;
+}
+
+@media (min-width: 768px) and (max-width: 1245px) {
+  .JSheader-user-name {
+    font-size: 12px;
+  }
+  .JSheader-text {
+    font-size: 12px;
+  }
+  .JSheader-log-out-button {
+    width: 6vw;
+    height: 35px;
+    font-size: 12px;
+  }
+}

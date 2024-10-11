@@ -1,0 +1,98 @@
+.ApplicationStatusContainer {
+  display: flex;
+  font-family: Poppins;
+  background-color: whitesmoke;
+}
+
+.notification {
+  margin: 5% auto;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+.notification h2 {
+  /* margin-left: 10%; */
+  font-size: 30px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid rgb(211, 211, 211);
+}
+
+.jobs {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  height: 90vh;
+}
+
+.jobs::-webkit-scrollbar {
+  width: 8px; /* Adjust the width as needed */
+}
+
+.jobs::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background of the scrollbar track */
+}
+
+.jobs::-webkit-scrollbar-thumb {
+  background: #888; /* Color of the scrollbar handle */
+  border-radius: 10px; /* Make the scrollbar handle rounded */
+}
+
+.jobs::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Handle color on hover */
+}
+
+.job {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  border-bottom: 2px solid rgb(226, 226, 226);
+  padding: 1rem;
+}
+
+.jobText {
+  width: 40%;
+  /* padding: 1rem; */
+}
+
+.jobName {
+  margin-left: 3%;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 100;
+  font-weight: 600;
+}
+
+.deletePost {
+  margin-left: 6%;
+  font-weight: 600;
+  font-size: 13px;
+  color: #ba0606;
+  text-decoration-line: underline;
+}
+
+.deletePost:hover {
+  cursor: pointer;
+}
+
+.btns {
+  display: flex;
+  width: 30%;
+}
+.btn {
+  margin-right: 5%;
+  width: 30%;
+  height: 2.2rem;
+  border-radius: 15px;
+  border: none;
+  background-color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn:hover {
+  transition: 0.2s;
+  background-color: #468585;
+  color: #fff;
+}

@@ -1,0 +1,87 @@
+.PostModificationContainer {
+  display: flex;
+  width: 100%;
+  font-family: Poppins;
+  height: 100%;
+}
+
+.changeInformations {
+  display: flex;
+  width: 90%;
+  height: fit-content;
+}
+
+.leftPart {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+}
+.picture {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  text-align: center;
+}
+.picture label {
+  /* margin-left: 15%; */
+  font-size: large;
+  font-weight: 600;
+  margin-bottom: 5%;
+}
+.picture img {
+  height: 300px;
+}
+.group {
+  width: 60%;
+  align-self: center;
+  border-bottom: 1px solid rgb(193, 193, 193);
+  text-align: start;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5%;
+}
+
+.groupText {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+.groupText label {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.groupText p {
+  margin: 2% 0;
+  font-weight: 300;
+}
+
+.groupText textarea {
+  width: 100%;
+  min-height: 80px; /* Ensure the textarea has a good height */
+  resize: vertical; /* Allow resizing only vertically */
+  padding: 5px; /* Add some padding for comfort */
+  border: 1px solid rgb(193, 193, 193); /* Consistent border styling */
+  font-family: inherit; /* Keep the same font */
+  font-size: inherit;
+}
+
+.editBtn {
+  width: 20%;
+  border: none;
+  background-color: transparent;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.rightPart {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 15%;
+  height: 80%;
+}

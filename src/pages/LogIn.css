@@ -1,0 +1,196 @@
+.LogIn {
+    background-image: url('../assets/images/LogInBG.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(3px);
+    z-index: 1;
+}
+
+.LogIn-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: centers;
+  align-items: center;
+  background-color: #FFFFFF;
+  width: 60vw;
+  border-radius: 20px;
+  z-index: 2;
+}
+
+.LogIn-head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.LogIn-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.LogIn-subtitle {
+    font-size:  16.5px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.LogIn-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    width: 30vw;
+    margin-top: 8vh;    
+    margin-bottom: 8vh;
+}
+
+.email {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid rgb(46, 85, 85, 0.3);
+    height: 50px;
+}
+
+.email-label {
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.password {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid rgb(46, 85, 85, 0.3);
+    height: 50px;
+}
+
+.password-label {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.left-label {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.right-label {
+    display: flex;
+    font-size: 17px;
+    font-weight: 500;
+    align-items: center;
+}
+
+.EyePicture {
+    margin-right: 10px;
+}
+
+.show-password {
+    display: none;
+}
+
+.password-bottom {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.password-error {
+    color: red;
+}
+.email-error {
+    color: red;
+}
+
+.forget-password {
+    color: black;
+}
+
+.LogIn-button {
+    color: white;
+    background: #468585;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 100%;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 28px;
+    height: 50px;
+    margin-top: 100px;
+    border: none;
+}
+
+.ellipse-1 {
+    width: 0; 
+    height: 0;    
+    border-radius: 50%;
+    box-shadow: 0 0 100px 15vw rgba(46, 85, 85, 0.2);
+    position: absolute;
+    top: 10vh;
+    left: 20vw;
+    z-index: 5;
+}
+
+.ellipse-2 {
+    width: 0;  
+    height: 0;  
+    border-radius: 50%;
+    box-shadow: 0 0 100px 15vw rgba(46, 85, 85, 0.2);
+    position: absolute;
+    top: 90vh;
+    left: 80vw;
+    z-index: 5;
+}
+
+
+@media (min-width: 768px) and (max-width: 1064px) {
+    .WhoAreYou-title {
+        font-size: 22px;
+    }
+    .already-exist {
+        font-size:  13.5px;
+    }
+    .question-title {
+        font-size: 22px;
+    }
+    .question-text {
+        font-size:  11px;
+        height: 150px;
+    }
+    .question-button {
+        font-size: 20px;
+        height: 50px;
+    }
+}
+
+@media (max-height: 735px) {
+    .LogIn {
+        height: 735px;
+    }
+}

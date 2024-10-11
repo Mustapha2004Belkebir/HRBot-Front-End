@@ -1,0 +1,442 @@
+[
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Cybersec Analyst",
+    "jobDescription": "As a Cybersecurity Analyst at SecureNet Global, you will be responsible for monitoring, analyzing, and responding to security events and incidents across our clients' networks. You will collaborate with a team of experts to identify vulnerabilities, implement security measures, and ensure compliance with industry standards.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science, Information Security, or a related field.",
+      "3+ years of experience in cybersecurity or a similar role.",
+      "Proficiency in network security tools and technologies (e.g., firewalls, IDS/IPS, SIEM)."
+    ],
+    "location": "Hybrid - Bab Ezzouar, Algiers",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from 90,000 DZD to 120,000 DZD monthly.",
+      "Comprehensive health, dental, and vision insurance."
+    ],
+    "companyName": "SecureNet Global",
+    "companyOverview": "SecureNet Global is a leading cybersecurity firm dedicated to protecting businesses worldwide from digital threats.",
+    "contactInformation": "For inquiries, contact our HR department at careers@securenetglobal.dz",
+    "jobCategory": "CS",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Data Scientist",
+    "jobDescription": "As a Data Scientist at InnovateTech, you will be responsible for analyzing large datasets to uncover trends and insights that drive key business decisions.",
+    "requiredQualifications": [
+      "Bachelor's or Master's degree in Data Science, Computer Science, or a related field.",
+      "3+ years of experience in data science or analytics.",
+      "Strong proficiency in Python, R, and SQL."
+    ],
+    "location": "Remote - Global",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, flexible hours",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from $80,000 to $120,000 annually.",
+      "Health, dental, and vision insurance."
+    ],
+    "companyName": "InnovateTech",
+    "companyOverview": "InnovateTech is a leader in AI-driven solutions, helping companies across industries unlock the power of their data.",
+    "contactInformation": "For inquiries, contact us at careers@innovatetech.com",
+    "jobCategory": "DevOps",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Frontend Developer",
+    "jobDescription": "As a Frontend Developer at WebGen Solutions, you will build and maintain web applications with a focus on user experience.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "2+ years of experience in frontend development.",
+      "Proficiency in HTML, CSS, JavaScript, and React.js."
+    ],
+    "location": "Onsite - London, UK",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from £40,000 to £55,000 annually.",
+      "Work-from-home flexibility 2 days a week."
+    ],
+    "companyName": "WebGen Solutions",
+    "companyOverview": "WebGen Solutions specializes in building web-based platforms for businesses of all sizes.",
+    "contactInformation": "For inquiries, contact us at careers@webgen.com",
+    "jobCategory": "CS",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Project Manager",
+    "jobDescription": "As a Project Manager at PlanTech, you will oversee the planning, execution, and delivery of IT projects.",
+    "requiredQualifications": [
+      "Bachelor's degree in Management, IT, or related field.",
+      "5+ years of experience in project management.",
+      "PMP or PRINCE2 certification is a plus."
+    ],
+    "location": "Onsite - Dubai, UAE",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 8 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from AED 25,000 to AED 35,000 monthly.",
+      "Health insurance and housing allowance."
+    ],
+    "companyName": "PlanTech",
+    "companyOverview": "PlanTech is a global IT consultancy firm that specializes in delivering large-scale projects.",
+    "contactInformation": "For inquiries, contact us at hr@plantech.com",
+    "jobCategory": "IA",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Marketing Manager",
+    "jobDescription": "As a Marketing Manager at AdVantage Media, you will develop and implement marketing strategies that drive brand awareness and customer acquisition.",
+    "requiredQualifications": [
+      "Bachelor's degree in Marketing, Business, or related field.",
+      "4+ years of experience in marketing or a similar role.",
+      "Strong knowledge of digital marketing strategies."
+    ],
+    "location": "Onsite - New York, USA",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from $70,000 to $90,000 annually.",
+      "Medical, dental, and vision insurance."
+    ],
+    "companyName": "AdVantage Media",
+    "companyOverview": "AdVantage Media is a creative advertising agency that helps brands grow by developing powerful marketing strategies.",
+    "contactInformation": "For inquiries, contact us at careers@advantagemedia.com",
+    "jobCategory": "DevOps",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "DevOps Engineer",
+    "jobDescription": "As a DevOps Engineer at CloudServ, you will automate and streamline operations, ensuring seamless deployment and integration of software applications.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in a DevOps role.",
+      "Proficiency in CI/CD tools such as Jenkins, Docker, and Kubernetes."
+    ],
+    "location": "Remote - Global",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, flexible hours",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from $90,000 to $110,000 annually.",
+      "Health insurance and paid parental leave."
+    ],
+    "companyName": "CloudServ",
+    "companyOverview": "CloudServ provides cloud infrastructure solutions to enterprises worldwide.",
+    "contactInformation": "For inquiries, contact us at careers@cloudserv.com",
+    "jobCategory": "CS",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "HR Manager",
+    "jobDescription": "As an HR Manager at PeopleFirst, you will manage the recruitment process, employee relations, and organizational development initiatives.",
+    "requiredQualifications": [
+      "Bachelor's degree in Human Resources or related field.",
+      "5+ years of experience in HR management.",
+      "Strong knowledge of employment laws and best practices."
+    ],
+    "location": "Onsite - Toronto, Canada",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from CAD 80,000 to CAD 100,000 annually.",
+      "Comprehensive health benefits and pension plan."
+    ],
+    "companyName": "PeopleFirst",
+    "companyOverview": "PeopleFirst is a leading HR consulting firm that works with businesses to improve their people management strategies.",
+    "contactInformation": "For inquiries, contact us at hr@peoplefirst.ca",
+    "jobCategory": "IA",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Backend Developer",
+    "jobDescription": "As a Backend Developer at CodeStream, you will build and maintain server-side applications that power web and mobile platforms.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in backend development.",
+      "Proficiency in Node.js, Python, or Java."
+    ],
+    "location": "Hybrid - San Francisco, USA",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from $100,000 to $130,000 annually.",
+      "Health, dental, and vision insurance."
+    ],
+    "companyName": "CodeStream",
+    "companyOverview": "CodeStream builds innovative software solutions for businesses of all sizes.",
+    "contactInformation": "For inquiries, contact us at careers@codestream.com",
+    "jobCategory": "DevOps",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Sales Manager",
+    "jobDescription": "As a Sales Manager at MarketReach, you will lead a team of sales representatives to achieve targets and grow the business.",
+    "requiredQualifications": [
+      "Bachelor's degree in Business, Marketing, or related field.",
+      "5+ years of experience in sales management.",
+      "Strong leadership and negotiation skills."
+    ],
+    "location": "Onsite - Sydney, Australia",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from AUD 90,000 to AUD 110,000 annually.",
+      "Company car and health insurance."
+    ],
+    "companyName": "MarketReach",
+    "companyOverview": "MarketReach is a global sales consultancy helping companies maximize their market potential.",
+    "contactInformation": "For inquiries, contact us at careers@marketreach.com.au",
+    "jobCategory": "IA",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Full Stack Engineer",
+    "jobDescription": "As a Full Stack Engineer at TechWave, you will design and implement both frontend and backend systems for scalable web applications.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full stack development.",
+      "Proficiency in JavaScript, React, and Node.js."
+    ],
+    "location": "Onsite - Berlin, Germany",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from €70,000 to €85,000 annually.",
+      "Health insurance and professional development support."
+    ],
+    "companyName": "TechWave",
+    "companyOverview": "TechWave builds enterprise-level software solutions for clients across various industries.",
+    "contactInformation": "For inquiries, contact us at careers@techwave.de",
+    "jobCategory": "CS",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Sales Manager",
+    "jobDescription": "As a Sales Manager at MarketReach, you will lead a team of sales representatives to achieve targets and grow the business.",
+    "requiredQualifications": [
+      "Bachelor's degree in Business, Marketing, or related field.",
+      "5+ years of experience in sales management.",
+      "Strong leadership and negotiation skills."
+    ],
+    "location": "Onsite - Sydney, Australia",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from AUD 90,000 to AUD 110,000 annually.",
+      "Company car and health insurance."
+    ],
+    "companyName": "MarketReach",
+    "companyOverview": "MarketReach is a global sales consultancy helping companies maximize their market potential.",
+    "contactInformation": "For inquiries, contact us at careers@marketreach.com.au",
+    "jobCategory": "CS",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Full Stack Engineer",
+    "jobDescription": "As a Full Stack Engineer at TechWave, you will design and implement both frontend and backend systems for scalable web applications.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full stack development.",
+      "Proficiency in JavaScript, React, and Node.js."
+    ],
+    "location": "Onsite - Berlin, Germany",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from €70,000 to €85,000 annually.",
+      "Health insurance and professional development support."
+    ],
+    "companyName": "TechWave",
+    "companyOverview": "TechWave builds enterprise-level software solutions for clients across various industries.",
+    "contactInformation": "For inquiries, contact us at careers@techwave.de",
+    "jobCategory": "IA",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Sales Manager",
+    "jobDescription": "As a Sales Manager at MarketReach, you will lead a team of sales representatives to achieve targets and grow the business.",
+    "requiredQualifications": [
+      "Bachelor's degree in Business, Marketing, or related field.",
+      "5+ years of experience in sales management.",
+      "Strong leadership and negotiation skills."
+    ],
+    "location": "Onsite - Sydney, Australia",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from AUD 90,000 to AUD 110,000 annually.",
+      "Company car and health insurance."
+    ],
+    "companyName": "MarketReach",
+    "companyOverview": "MarketReach is a global sales consultancy helping companies maximize their market potential.",
+    "contactInformation": "For inquiries, contact us at careers@marketreach.com.au",
+    "jobCategory": "DevOps",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Full Stack Engineer",
+    "jobDescription": "As a Full Stack Engineer at TechWave, you will design and implement both frontend and backend systems for scalable web applications.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full stack development.",
+      "Proficiency in JavaScript, React, and Node.js."
+    ],
+    "location": "Onsite - Berlin, Germany",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from €70,000 to €85,000 annually.",
+      "Health insurance and professional development support."
+    ],
+    "companyName": "TechWave",
+    "companyOverview": "TechWave builds enterprise-level software solutions for clients across various industries.",
+    "contactInformation": "For inquiries, contact us at careers@techwave.de",
+    "jobCategory": "CS",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Sales Manager",
+    "jobDescription": "As a Sales Manager at MarketReach, you will lead a team of sales representatives to achieve targets and grow the business.",
+    "requiredQualifications": [
+      "Bachelor's degree in Business, Marketing, or related field.",
+      "5+ years of experience in sales management.",
+      "Strong leadership and negotiation skills."
+    ],
+    "location": "Onsite - Sydney, Australia",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from AUD 90,000 to AUD 110,000 annually.",
+      "Company car and health insurance."
+    ],
+    "companyName": "MarketReach",
+    "companyOverview": "MarketReach is a global sales consultancy helping companies maximize their market potential.",
+    "contactInformation": "For inquiries, contact us at careers@marketreach.com.au",
+    "jobCategory": "IA",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Full Stack Engineer",
+    "jobDescription": "As a Full Stack Engineer at TechWave, you will design and implement both frontend and backend systems for scalable web applications.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full stack development.",
+      "Proficiency in JavaScript, React, and Node.js."
+    ],
+    "location": "Onsite - Berlin, Germany",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from €70,000 to €85,000 annually.",
+      "Health insurance and professional development support."
+    ],
+    "companyName": "TechWave",
+    "companyOverview": "TechWave builds enterprise-level software solutions for clients across various industries.",
+    "contactInformation": "For inquiries, contact us at careers@techwave.de",
+    "jobCategory": "IA",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Sales Manager",
+    "jobDescription": "As a Sales Manager at MarketReach, you will lead a team of sales representatives to achieve targets and grow the business.",
+    "requiredQualifications": [
+      "Bachelor's degree in Business, Marketing, or related field.",
+      "5+ years of experience in sales management.",
+      "Strong leadership and negotiation skills."
+    ],
+    "location": "Onsite - Sydney, Australia",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from AUD 90,000 to AUD 110,000 annually.",
+      "Company car and health insurance."
+    ],
+    "companyName": "MarketReach",
+    "companyOverview": "MarketReach is a global sales consultancy helping companies maximize their market potential.",
+    "contactInformation": "For inquiries, contact us at careers@marketreach.com.au",
+    "jobCategory": "CS",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Full Stack Engineer",
+    "jobDescription": "As a Full Stack Engineer at TechWave, you will design and implement both frontend and backend systems for scalable web applications.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full stack development.",
+      "Proficiency in JavaScript, React, and Node.js."
+    ],
+    "location": "Onsite - Berlin, Germany",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from €70,000 to €85,000 annually.",
+      "Health insurance and professional development support."
+    ],
+    "companyName": "TechWave",
+    "companyOverview": "TechWave builds enterprise-level software solutions for clients across various industries.",
+    "contactInformation": "For inquiries, contact us at careers@techwave.de",
+    "jobCategory": "IA",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\cardPhoto.png",
+    "jobName": "Sales Manager",
+    "jobDescription": "As a Sales Manager at MarketReach, you will lead a team of sales representatives to achieve targets and grow the business.",
+    "requiredQualifications": [
+      "Bachelor's degree in Business, Marketing, or related field.",
+      "5+ years of experience in sales management.",
+      "Strong leadership and negotiation skills."
+    ],
+    "location": "Onsite - Sydney, Australia",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 5 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from AUD 90,000 to AUD 110,000 annually.",
+      "Company car and health insurance."
+    ],
+    "companyName": "MarketReach",
+    "companyOverview": "MarketReach is a global sales consultancy helping companies maximize their market potential.",
+    "contactInformation": "For inquiries, contact us at careers@marketreach.com.au",
+    "jobCategory": "DevOps",
+    "applicationStatus": ""
+  },
+  {
+    "mainPhoto": "src\\assets\\images\\MainPhoto.png",
+    "jobName": "Full Stack Engineer",
+    "jobDescription": "As a Full Stack Engineer at TechWave, you will design and implement both frontend and backend systems for scalable web applications.",
+    "requiredQualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full stack development.",
+      "Proficiency in JavaScript, React, and Node.js."
+    ],
+    "location": "Onsite - Berlin, Germany",
+    "employmentType": "Full-time",
+    "workHours": "Monday to Friday, 9 AM to 6 PM",
+    "salaryAndBenefits": [
+      "Competitive salary ranging from €70,000 to €85,000 annually.",
+      "Health insurance and professional development support."
+    ],
+    "companyName": "TechWave",
+    "companyOverview": "TechWave builds enterprise-level software solutions for clients across various industries.",
+    "contactInformation": "For inquiries, contact us at careers@techwave.de",
+    "jobCategory": "DevOps",
+    "applicationStatus": ""
+  }
+]

@@ -1,0 +1,80 @@
+.our-achievement {
+    width: 100vw;
+    margin-top: 100px;
+    font-family: Arial;
+  }
+
+  .acheivment-body {
+    margin-top: 20px;
+  }
+  
+.acheivment-line {
+    width: 400px;
+    height: 30px;
+    margin-top: 2px;
+    transform: skewY(3.5deg) translateX(70px);
+    border-top: 6px #50B498 solid;
+    border-radius: 50%;
+}
+  
+  .acheivment-description {
+    color: #030303;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    word-wrap: break-word;
+    margin-left: 8vw;
+  }
+  
+  .acheivment-main {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .stat-number {
+    color: #030303;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0.24px;
+    word-wrap: break-word;
+  }
+  
+  .stat-description {
+    color: #030303;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    word-wrap: break-word;
+  }
+
+  .one-acheivment {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2vw;
+  }
+
+  @media (min-width: 768px) and (max-width: 1050px) {
+    .acheivment-line {
+        width: 250px;
+        transform: skewY(3.5deg) translateX(40px);
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 950px) {
+    .stat-number {
+        font-size: 22px;
+      }
+      
+      .stat-description {
+        font-size: 16px;
+      }
+  }
+
+  

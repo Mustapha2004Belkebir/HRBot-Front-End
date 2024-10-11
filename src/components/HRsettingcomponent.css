@@ -1,0 +1,145 @@
+.HRsettingcomponent {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    width: 90vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 10vh;
+    font-family: Arial;
+    padding-bottom: 80px;
+}
+
+.imageEdit {
+    display: flex;
+    flex-direction: column;
+    padding-left: 8vw;
+}
+
+.profileImage {
+    width: 160px;
+    height: 160px;
+}
+
+.changeImage {
+    display: none;
+}
+
+.changeImageLabel {
+    background-color: white;
+    color: black;
+    border: solid 0.7px #CCCCCC;
+    border-radius: 5px;
+    transform: translateY(-30px);
+    text-align: center;
+    width: 60px;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer; 
+}
+
+.Infos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.Left {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 50%;
+    align-items: flex-start;
+}
+
+.Info {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    border-bottom: solid 1px #dedede;
+    padding-bottom: 25px;
+}
+
+.infoTitle {
+    font-size: 20px;
+    font-weight: 500;
+    color: #222222;
+}
+
+.userData {
+    font-size: 17.5px;
+    font-weight: 500;
+    color: #717171;
+}
+
+.DeleteInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 40%;
+    border-bottom: solid 1px #dedede;
+    padding-bottom: 25px;
+}
+
+.DeleteSection {
+    display: flex;
+    justify-content: end;
+}
+
+.DeleteButton {
+    background-color: transparent;
+    color: red;
+    text-decoration: underline;
+    width: fit-content;
+    margin-left: 30px;
+    border: none;
+    font-size: 17.5px;
+    font-weight: 500;
+    cursor: pointer; 
+}
+
+.CompanyOverview {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    gap: 30px;
+    width: 40%;
+}
+
+.CompanyOverviewHead {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.CompanyOverviewButton {
+    background-color: white;
+    color: black;
+    border: solid 0.7px #CCCCCC;
+    border-radius: 5px;
+    text-align: center;
+    width: 60px;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer; 
+}
+
+.CompanyOverviewEdit {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    height: 200px;
+    resize: none;
+    font-size: 17.5px;
+    font-weight: 500;
+    color: #717171;
+
+}

@@ -1,0 +1,89 @@
+.jobCard {
+  font-family: poppins;
+  background-color: #fff;
+  border: 0px solid #e0e0e0;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* overflow: hidden; */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  padding: 7px;
+  width: 200px;
+  margin-left: 5%;
+}
+.btnContainer {
+  display: flex;
+  margin-top: 10px;
+}
+/* Hover effect for cards */
+.jobCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Image inside job card */
+.jobCard img {
+  width: 100%;
+  height: 150px;
+  border-radius: 10px;
+  object-fit: cover;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 10px;
+}
+
+/* Job title */
+.jobCard h3 {
+  font-size: 18px;
+  color: #000;
+  margin: 5px 0 0 0;
+  font-weight: 600;
+}
+
+/* Company name or category */
+.jobCard p {
+  font-size: 12px;
+  color: #000;
+  margin: 0 0 5px 0;
+}
+
+/* Button styling */
+.jobCard button {
+  background-color: #468585;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 7px 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 5px;
+  font-weight: 600;
+}
+
+.jobCard button:hover {
+  background-color: #235e5e;
+}
+
+.jobCard button:first-of-type {
+  background-color: #f5f5f5; /* Different color for the first button */
+  color: #000;
+}
+
+/* Optionally, you can add a hover effect */
+.jobCard button:first-of-type:hover {
+  background-color: #c1c1c1; /* Darker shade on hover */
+}
+
+/* Responsive: For smaller screens */
+/* @media (max-width: 768px) {
+  .job-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .job-grid {
+    grid-template-columns: 1fr;
+  }
+} */

@@ -1,0 +1,13 @@
+.JSresumeConsulter {
+    display: flex;
+    flex-direction: row;
+}
+
+.JSRCbody {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    width: 90vw;
+    padding-left: 5vw;
+    padding-right: 10vw;
+}

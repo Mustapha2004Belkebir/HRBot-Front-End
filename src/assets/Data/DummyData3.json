@@ -1,0 +1,10 @@
+{
+    "name": "John Doe",
+    "imagePath": "src\\assets\\images\\UserProfile.png",
+    "companyName": "Tech Innovators Inc.",
+    "email": "johndoe@techinnovators.com",
+    "field": "Software Development",
+    "dateOfBirth": "1985-07-15",
+    "gender": "Male",
+    "companyOverview": "Tech Innovators Inc. is a leading company in the software development industry, specializing in cutting-edge AI and machine learning solutions. Founded in 2010, the company has grown to employ over 500 professionals across the globe."
+  }

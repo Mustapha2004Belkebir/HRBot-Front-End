@@ -1,0 +1,96 @@
+.ApplicationStatusContainer {
+  display: flex;
+  font-family: Poppins;
+  background-color: whitesmoke;
+}
+
+.notification {
+  margin: 5% auto;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+.notification h2 {
+  /* margin-left: 10%; */
+  font-size: 30px;
+  margin-bottom: 0;
+}
+.tabs {
+  border-bottom: 2px solid rgb(211, 211, 211);
+}
+
+.tabsBtn {
+  width: 90px;
+  border: none;
+  height: 3rem;
+  background-color: whitesmoke;
+  padding: 0;
+  font-weight: bolder;
+}
+
+.applications {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  height: 90vh;
+}
+
+.applications::-webkit-scrollbar {
+  width: 8px; /* Adjust the width as needed */
+}
+
+.applications::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background of the scrollbar track */
+}
+
+.applications::-webkit-scrollbar-thumb {
+  background: #888; /* Color of the scrollbar handle */
+  border-radius: 10px; /* Make the scrollbar handle rounded */
+}
+
+.applications::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Handle color on hover */
+}
+
+.application {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  border-bottom: 2px solid rgb(226, 226, 226);
+  padding: 1rem;
+}
+
+.applicationText {
+  width: 40%;
+  /* padding: 1rem; */
+}
+
+.jobName {
+  margin-left: 3%;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 100;
+}
+
+.jobName img {
+  margin-right: 9px;
+  width: 10px;
+}
+
+.companyName {
+  margin-left: 12%;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.detailsbtn {
+  margin-right: 5%;
+  width: 8%;
+  height: 2.2rem;
+  border-radius: 15px;
+  border: none;
+  background-color: white;
+  font-weight: 600;
+}
